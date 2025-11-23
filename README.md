@@ -2,7 +2,6 @@
 
  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20chaerlyn)
 
-<br>
 <!--Body-->
 <!-- <div align=center><h1>About Me</h1></div>-->
 
